@@ -71,7 +71,12 @@ The Hull-White model is implemented with the following components:
 
 - The implementation uses a polynomial fit to smooth the bootstrapped discount factors
 - The calibration process matches both the current term structure and historical volatility
-- The model parameters are calibrated to minimize the difference between model and market prices
+- The model parameters are calibrated to minimize the difference between the model and market prices
+
+## Author
+
+Anahita Badkoubeh Hezaveh
+
 
 
 
